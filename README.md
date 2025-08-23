@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Anshul Dani  
 
-[![Personal Email](https://img.shields.io/badge/Email-blue)](mailto:anshuldani@gmail.com)
-[![Work/School Email](https://img.shields.io/badge/Email-blue)](mailto:adani2@hawk.illinoistech.edu)
+[![Personal Email](https://img.shields.io/badge/PersonalEmail-blue)](mailto:anshuldani@gmail.com)
+[![Work/School Email](https://img.shields.io/badge/WorkEmail-blue)](mailto:adani2@hawk.illinoistech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/anshul-dani)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/anshuldani)
 
@@ -24,9 +24,3 @@
 - 🧠 Strong cross-disciplinary skills: AI + Engineering + Finance  
 - 🚀 Project work in **Healthcare AI, Accessibility Tech, Data Pipelines, Deep Learning, and Software and Web Development**  
 - 🤝 Strong collaborator, critical thinker, and fast learner  
-
----
-
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=anshuldani&color=blue)
-![Anshul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=dark)
