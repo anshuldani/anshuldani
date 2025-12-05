@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 Currently
-- 🎯 Seeking internship opportunities and full-time roles in **AI/ML, Data Science, and Software Engineering**
+- 🎯 Seeking opportunities for full-time roles (starting June 2026) in **AI/ML, Data Science, and Software Engineering**
 - 📍 Based in Chicago, IL  
 
 ---
