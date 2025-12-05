@@ -3,7 +3,7 @@
 [![Personal Email](https://img.shields.io/badge/PersonalEmail-blue)](mailto:anshuldani@gmail.com)
 [![Work/School Email](https://img.shields.io/badge/WorkEmail-blue)](mailto:adani2@hawk.illinoistech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/anshul-dani)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/anshuldani)
+[![GitHub](https://img.shields.io/badge/GitHub-blue)](https://github.com/anshuldani)
 
 ---
 
