@@ -14,7 +14,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 Master’s in Artificial Intelligence @ Illinois Institute of Technology (2025)  
+- 🎓 Master’s in Artificial Intelligence @ Illinois Institute of Technology (2026)  
 - 💡 Internship experience in **Deep Learning, NLP, LLMs, and Computer Vision**  
 - 📊 Hands-on with **AI, Deep Learning, Data Science, Predictive Modelling, and MLOps**  
 
@@ -22,5 +22,5 @@
 
 ## 🌟 What Makes Me Unique
 - 🧠 Strong cross-disciplinary skills: AI + Engineering + Finance  
-- 🚀 Project work in **Healthcare AI, Accessibility Tech, Data Pipelines, Deep Learning, and Software and Web Development**  
+- 🚀 Project work in **Healthcare AI, Accessibility Tech, Data Pipelines, Deep Learning, and Financial AI**  
 - 🤝 Strong collaborator, critical thinker, and fast learner  
