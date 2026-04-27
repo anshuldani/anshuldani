@@ -27,7 +27,7 @@ Production CV pipelines. Agentic systems. Hackathon wins judged by Andrew Ng. Cu
 
 ### What I actually do
 
-I'm a founding team member at Levee, where I own the computer vision pipeline (YOLO, SAM2, fine-tuned SmolVLM on 2,554 annotated hotel rooms), the agentic stack (LangGraph, Pinecone), and the GCP inference infra. Sub-2-second inference is the bar. We're building the digital twin layer next — 3DGS reconstruction from iPhone Pro captures, ESP32 IoT overlays, generative room previews via WorldGen.
+I'm a founding team member at Levee, where I own the computer vision pipeline (YOLO, SAM2, fine-tuned SmolVLM on 2,554 annotated hotel rooms), the agentic stack (LangGraph, Pinecone), and the GCP inference infra. Sub-second inference is the bar.
 
 Outside of my day job, I ship at hackathons. **TAVI** (wearable edge AI for the visually impaired) won Google's Hack for Accessibility 2025. **Arcis** (multi-agent investment intelligence) hit Top 20 at a Financial AI Hackathon judged by Andrew Ng. **ClearCare** (multimodal medical-bill dispute agent) shipped at the Google DeepMind Vibecoding Hackathon. **Authflow** placed 3rd at Techstars Chicago Startup Weekend.
 
