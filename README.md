@@ -17,9 +17,7 @@ Production CV pipelines. Agentic systems. Hackathon wins judged by Andrew Ng. Cu
 ### Now shipping
 
 <!--START_NOW-->
-- **SpatialClone** — iPhone Pro LiDAR + COLMAP + 3D Gaussian Splatting for hotel digital twins. Marriott demo target.
 - **Authflow** — "TurboTax for prior authorization." 3rd place Techstars Chicago Startup Weekend, S26 application in flight.
-- **Levee CV pipeline** — 45-class hotel inspection model. Pushed YOLO11m-seg recall from 67% → 73% at 90% precision. Sub-2s inference on GCP.
 - **JobOS** — local-first job-search agent. Scrape, tailor, track, send. Because applying to 200 roles by hand is for losers.
 <!--END_NOW-->
 
@@ -31,9 +29,9 @@ Production CV pipelines. Agentic systems. Hackathon wins judged by Andrew Ng. Cu
 
 I'm a founding team member at Levee, where I own the computer vision pipeline (YOLO, SAM2, fine-tuned SmolVLM on 2,554 annotated hotel rooms), the agentic stack (LangGraph, Pinecone), and the GCP inference infra. Sub-2-second inference is the bar. We're building the digital twin layer next — 3DGS reconstruction from iPhone Pro captures, ESP32 IoT overlays, generative room previews via WorldGen.
 
-Outside the day job I ship at hackathons. **TAVI** (wearable edge AI for the visually impaired) won Google's Hack for Accessibility 2025. **Arcis** (multi-agent investment intelligence) hit Top 20 at a Financial AI Hackathon judged by Andrew Ng. **ClearCare** (multimodal medical-bill dispute agent) shipped at the Google DeepMind Vibecoding Hackathon. **Authflow** placed 3rd at Techstars Chicago Startup Weekend — we're pushing it toward YC S26.
+Outside of my day job, I ship at hackathons. **TAVI** (wearable edge AI for the visually impaired) won Google's Hack for Accessibility 2025. **Arcis** (multi-agent investment intelligence) hit Top 20 at a Financial AI Hackathon judged by Andrew Ng. **ClearCare** (multimodal medical-bill dispute agent) shipped at the Google DeepMind Vibecoding Hackathon. **Authflow** placed 3rd at Techstars Chicago Startup Weekend.
 
-MS in AI at Illinois Tech, graduating June 2026. F-1 OPT, no sponsorship needed.
+MS in AI at Illinois Tech, graduating June 2026. F-1 OPT.
 
 ### The stack
 
