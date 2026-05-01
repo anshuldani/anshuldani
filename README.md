@@ -71,8 +71,6 @@ Lang        Python · TypeScript · CUDA · SQL
 
 <div align="center">
 
-**Hiring or building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
-
-*F-1 OPT · Available June 2026*
+**Building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
 
 </div>
