@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Anshul%20Dani&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founding%20AI/ML%20Engineer%20at%20Levee&descSize=18&descAlignY=60" width="100%" />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Vision+systems+that+run+in+production.;Agents+that+actually+finish+the+job.;Sub-second+inference+is+the+bar." />
+<h1 style="font-weight:800">Anshul Dani</h1>
+
+**Founding AI/ML Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; Chicago
+
+<code>vision systems in production</code> &nbsp; <code>agents that finish the job</code> &nbsp; <code>sub-second inference is the bar</code>
 
 <br/>
 
@@ -96,6 +100,5 @@ Prompt-injection attack simulator for agent systems.<br/>
 
 **Building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
