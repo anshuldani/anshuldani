@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Anshul%20Dani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founding%20AI%2FML%20Engineer%20%40%20Levee&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Anshul%20Dani&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Founding%20AI/ML%20Engineer%20at%20Levee&descSize=18&descAlignY=60" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Vision+systems+that+run+in+production.;Agents+that+actually+finish+the+job.;Sub-second+inference+is+the+bar." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Vision+systems+that+run+in+production.;Agents+that+actually+finish+the+job.;Sub-second+inference+is+the+bar." />
 
 <br/>
 
