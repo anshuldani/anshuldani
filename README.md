@@ -4,7 +4,7 @@
 
 <h1 style="font-weight:800">Anshul Dani</h1>
 
-**Founding AI/ML Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; Chicago
+**Founding AI/ML Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
 
 <code>vision systems in production</code> &nbsp; <code>agents that finish the job</code> &nbsp; <code>sub-second inference is the bar</code>
 
