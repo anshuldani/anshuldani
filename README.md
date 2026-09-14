@@ -2,7 +2,7 @@
 
 # Anshul Dani
 
-**Founding AI/ML Engineer at [Levee](https://levee.biz) · CTO & Co-founder, Authflow**
+**Founding AI/ML Engineer at [Levee](https://levee.biz) — building the AI operating system for hotels.**
 
 I build vision systems that run in production and agents that actually finish the job.
 Hotels, hospitals, and whatever's broken enough to be worth fixing.
@@ -19,7 +19,6 @@ Hotels, hospitals, and whatever's broken enough to be worth fixing.
 
 <!--START_NOW-->
 - **Levee** — multi-tenant Context Engine (RAG over hotel SOPs) and the next-gen inspection pipeline for a 30-day pilot with a luxury hotel group. Vision-only, multimodal, no bespoke model training.
-- **Authflow** — "TurboTax for prior authorization." 3rd at Techstars Chicago Startup Weekend, presented at the Polsky Summit. Now on payer integrations and HIPAA hardening.
 - **career-claw** — autonomous job pipeline: search → ATS-tailored resume + cover letter → form submission. 200 applications by hand is a bug, not a grind.
 <!--END_NOW-->
 
@@ -29,10 +28,9 @@ Hotels, hospitals, and whatever's broken enough to be worth fixing.
 
 At **Levee** I'm the founding AI/ML engineer — I own the computer vision pipeline, the VLM layer, the agentic stack, and the GCP inference infra. Shipped YOLO11 + SAM2 + a fine-tuned SmolVLM on 2,554 annotated hotel rooms across a 45-class checklist, sub-2s inference on L4s, recall from 67% → 73% at 90% precision. Designed the digital-twin architecture (LiDAR + 3D Gaussian Splatting + ESP32 IoT). Now rebuilding the whole inspection stack multimodal-first.
 
-At **Authflow** I'm CTO — built the full technical and pitch stack in a weekend, and we've been shipping since.
-
 Outside of that, hackathons are where I test ideas at speed:
 
+- **Authflow** — "TurboTax for prior authorization." Built the full stack and pitch in 54 hours. **3rd place, Techstars Chicago Startup Weekend**, later presented at the Polsky Summit.
 - **TAVI** — wearable edge AI for the visually impaired. **Winner, Google Hack for Accessibility 2025.**
 - **Arcis / Shareholder Catalyst** — multi-agent SEC-filing intelligence. **Top 20, LandingAI Financial AI Hackathon, judged by Andrew Ng.**
 - **ClearCare** — multimodal agent that decodes discharge papers and disputes medical bills. Google DeepMind Vibecoding Hackathon.
@@ -55,7 +53,7 @@ Lang      Python · TypeScript · CUDA · SQL · Rust (learning)
 | Project | What it is | Stack |
 |---|---|---|
 | **[Levee](https://levee.biz)** | AI operating system for hotels. CV inspection, SOP context engine, digital twins. | YOLO · SAM2 · SmolVLM · LangGraph · GCP |
-| **[Authflow](https://github.com/anshuldani/authflow-backend)** | Prior-auth automation for clinics. 3rd, Techstars Chicago. | FastAPI · Next.js · FHIR |
+| **[Authflow](https://github.com/anshuldani/authflow-backend)** | Prior-auth automation for clinics. **3rd, Techstars Chicago Startup Weekend.** | FastAPI · Next.js · FHIR |
 | **[TAVI](https://github.com/anshuldani/TAVI-Talk-and-Vision-)** | Real-time situational awareness for the visually impaired. **Google Hack4Access winner.** | Edge CV · OCR · Voice · LLM |
 | **[Arcis](https://github.com/anshuldani/finance_ai_hackathon)** | 6-agent investment intelligence over SEC filings. **Top 20, judged by Andrew Ng.** | LangGraph · Pinecone · GCP |
 | **[ClearCare](https://github.com/anshuldani/clearcare)** | Medical-bill dispute agent for caregivers. | Gemini 2.5 · Next.js |
