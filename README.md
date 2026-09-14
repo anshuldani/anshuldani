@@ -1,90 +1,101 @@
 <div align="center">
 
-# Anshul Dani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Anshul%20Dani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founding%20AI%2FML%20Engineer%20%40%20Levee&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
-**Founding AI/ML Engineer at [Levee](https://levee.biz) — building the AI operating system for hotels.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Vision+systems+that+run+in+production.;Agents+that+actually+finish+the+job.;Sub-second+inference+is+the+bar." />
 
-I build vision systems that run in production and agents that actually finish the job.
-Hotels, hospitals, and whatever's broken enough to be worth fixing.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/anshuldani.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://anshuldani.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-dani)
-[![Email](https://img.shields.io/badge/anshuldani@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuldani@gmail.com)
+[![Portfolio](https://img.shields.io/badge/anshuldani.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://anshuldani.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anshul-dani)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:anshuldani@gmail.com)
 
 </div>
 
----
+<br/>
 
-### Now shipping
+## 🚀 Now
 
 <!--START_NOW-->
-- **Levee** — multi-tenant Context Engine (RAG over hotel SOPs) and the next-gen inspection pipeline for a 30-day pilot with a luxury hotel group. Vision-only, multimodal, no bespoke model training.
-- **career-claw** — autonomous job pipeline: search → ATS-tailored resume + cover letter → form submission. 200 applications by hand is a bug, not a grind.
+**Levee** · Founding AI/ML Engineer. Own the CV pipeline, VLM layer, agent stack, and GCP inference infra for the AI operating system for hotels. Shipped YOLO11 + SAM2 + fine-tuned SmolVLM on 2.5k annotated rooms, sub-2s inference. Currently building the multi-tenant Context Engine and next-gen inspection pipeline for a luxury hotel group pilot.
 <!--END_NOW-->
 
----
+<br/>
 
-### What I actually do
+## 🏆 Wins
 
-At **Levee** I'm the founding AI/ML engineer — I own the computer vision pipeline, the VLM layer, the agentic stack, and the GCP inference infra. Shipped YOLO11 + SAM2 + a fine-tuned SmolVLM on 2,554 annotated hotel rooms across a 45-class checklist, sub-2s inference on L4s, recall from 67% → 73% at 90% precision. Designed the digital-twin architecture (LiDAR + 3D Gaussian Splatting + ESP32 IoT). Now rebuilding the whole inspection stack multimodal-first.
+| | |
+|:--|:--|
+| **Google Hack for Accessibility 2025** | 🥇 Winner — [TAVI](https://github.com/anshuldani/TAVI-Talk-and-Vision-), wearable edge AI for the visually impaired |
+| **Techstars Chicago Startup Weekend** | 🥉 3rd — [Authflow](https://github.com/anshuldani/authflow-backend), prior-auth automation built in 54 hours |
+| **LandingAI Financial AI Hackathon** | Top 20, judged by Andrew Ng — [Arcis](https://github.com/anshuldani/finance_ai_hackathon), 6-agent SEC-filing intelligence |
 
-Outside of that, hackathons are where I test ideas at speed:
+<br/>
 
-- **Authflow** — "TurboTax for prior authorization." Built the full stack and pitch in 54 hours. **3rd place, Techstars Chicago Startup Weekend**, later presented at the Polsky Summit.
-- **TAVI** — wearable edge AI for the visually impaired. **Winner, Google Hack for Accessibility 2025.**
-- **Arcis / Shareholder Catalyst** — multi-agent SEC-filing intelligence. **Top 20, LandingAI Financial AI Hackathon, judged by Andrew Ng.**
-- **ClearCare** — multimodal agent that decodes discharge papers and disputes medical bills. Google DeepMind Vibecoding Hackathon.
+## 🛠 Selected builds
 
-MS in Artificial Intelligence, Illinois Tech (2026). Thesis-grade coursework on ML systems hardware, quantization, and RL reward design — see the repos.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### The stack
+**[career-claw](https://github.com/anshuldani/career-claw)**<br/>
+Autonomous job pipeline: search → tailored resume → form submission.<br/>
+<sub>TypeScript · Agents · Browser automation</sub>
 
-```
-Vision    PyTorch · YOLO11 · SAM2 · SmolVLM · Qwen2-VL · COLMAP · 3DGS
-LLMs      Claude · Gemini · LoRA fine-tuning · Vertex AI
-Agents    LangGraph · MCP · Pinecone · pgvector · LangChain
-Infra     GCP (GKE, L4/T4) · Docker · Ray · Celery/Redis · FastAPI · Django
-Frontend  Next.js · React · TypeScript · Supabase · PyQt
-Lang      Python · TypeScript · CUDA · SQL · Rust (learning)
-```
+</td>
+<td width="50%" valign="top">
 
-### Selected work
+**[JARVIS](https://github.com/anshuldani/jarvis)**<br/>
+Desktop AI with wake word, voice, and tool use.<br/>
+<sub>Claude API · Whisper · ElevenLabs · PyQt</sub>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Levee](https://levee.biz)** | AI operating system for hotels. CV inspection, SOP context engine, digital twins. | YOLO · SAM2 · SmolVLM · LangGraph · GCP |
-| **[Authflow](https://github.com/anshuldani/authflow-backend)** | Prior-auth automation for clinics. **3rd, Techstars Chicago Startup Weekend.** | FastAPI · Next.js · FHIR |
-| **[TAVI](https://github.com/anshuldani/TAVI-Talk-and-Vision-)** | Real-time situational awareness for the visually impaired. **Google Hack4Access winner.** | Edge CV · OCR · Voice · LLM |
-| **[Arcis](https://github.com/anshuldani/finance_ai_hackathon)** | 6-agent investment intelligence over SEC filings. **Top 20, judged by Andrew Ng.** | LangGraph · Pinecone · GCP |
-| **[ClearCare](https://github.com/anshuldani/clearcare)** | Medical-bill dispute agent for caregivers. | Gemini 2.5 · Next.js |
-| **[career-claw](https://github.com/anshuldani/career-claw)** | Autonomous AI/ML job application pipeline. | TypeScript · Agents · Browser automation |
-| **[JARVIS](https://github.com/anshuldani/jarvis)** | Desktop AI with wake word, voice, tool use. | Claude API · Whisper · ElevenLabs · PyQt |
-| **[Agent Graveyard](https://github.com/anshuldani/agent-graveyard)** | Prompt-injection attack simulator for agent systems. | TypeScript |
-| **[Autonomous Research Platform](https://github.com/anshuldani/autonomous-research-platform)** | Research agent with RAG, self-critique, multi-agent workflows. | LangGraph · Pinecone |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Research & coursework I'd defend at a whiteboard
+**[ClearCare](https://github.com/anshuldani/clearcare)**<br/>
+Multimodal agent that decodes discharge papers and disputes medical bills.<br/>
+<sub>Gemini 2.5 · Next.js · Google DeepMind Vibecoding Hackathon</sub>
 
-- **[The Annotated EUREKA](https://github.com/anshuldani/The-Annotated-Eureka)** — reimplementation of human-level reward design via LLM coding.
-- **[Edge-Ready Quantization](https://github.com/anshuldani/Simplified-Quantization-for-Edge-Ready-Language-Models)** — salient-mask mixed-precision quantization for small LMs.
-- **[Super-Resolution of Underwater Images](https://github.com/anshuldani/Super-Resolution-of-Underwater-Images)** — SRGAN / ESRGAN under color distortion.
+</td>
+<td width="50%" valign="top">
 
-### Stats
+**[Agent Graveyard](https://github.com/anshuldani/agent-graveyard)**<br/>
+Prompt-injection attack simulator for agent systems.<br/>
+<sub>TypeScript · AI security</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚡ Stack
 
 <div align="center">
 
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldani&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,fastapi,django,gcp,docker,supabase,postgres,rust&perline=12" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshuldani&theme=transparent&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshuldani&theme=minimal&hide_border=true&area=true)
+<sub>YOLO11 · SAM2 · SmolVLM · LangGraph · MCP · Pinecone · pgvector · 3D Gaussian Splatting · CUDA</sub>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="165" />
+
+<br/><br/>
+
+<sub>MS in Artificial Intelligence · Illinois Institute of Technology · 2026</sub>
+
+<br/><br/>
+
 **Building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
