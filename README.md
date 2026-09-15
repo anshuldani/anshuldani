@@ -6,7 +6,7 @@
 
 **Founding AI/ML Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
 
-<code>vision systems in production</code> &nbsp; <code>agents that finish the job</code> &nbsp; <code>sub-second inference is the bar</code>
+<code>Vision Systems in Production</code> &nbsp; <code>Agents that finish the job</code> &nbsp; <code>Sub-Second inference is the bar</code>
 
 <br/>
 
