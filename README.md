@@ -1,26 +1,14 @@
-<div align="center">
+# Anshul Dani
 
-<br/>
+Founding Engineer at [Levee](https://levee.biz) · New York
 
-<h1 style="font-weight:800">Anshul Dani</h1>
+I build AI systems that run in production: vision pipelines, agents, and the harnesses that make them reliable.
 
-**Founding Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
-
-<code>Vision Systems in Production</code> &nbsp; <code>Agents that finish the job</code> &nbsp; <code>Sub-Second inference is the bar</code>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/anshuldani.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://anshuldani.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anshul-dani)&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:anshuldani@gmail.com)
-
-</div>
-
-<br/>
+[anshuldani.com](https://anshuldani.com) · [LinkedIn](https://linkedin.com/in/anshul-dani) · [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
 
 ## Now
 
-**Founding Engineer at [Levee](https://levee.biz)**, building the AI behind room inspections for hotels: a phone scan that checks every item in a room against the property's own standards.
+At Levee I build the AI behind room inspections for hotels: a phone scan that checks every item in a room against the property's own standards.
 
 - **Inspection pipeline.** On-device image embeddings close the easy items instantly on iOS and Android. A vision-language model verifies only the hard frames in the cloud, and confidence-based routing decides which path each item takes.
 - **Agents after the scan.** An event-driven agent pipeline turns each scan into findings, a score and follow-up tasks for managers.
@@ -28,7 +16,11 @@
 - **Mobile.** Shipped the native Android app solo, from zero to Google Play, at parity with iOS.
 - **How the work gets built.** I run engineering through a multi-agent harness: a planner, engineers in isolated worktrees, a fresh-context QA gate, evals, and a human approval gate before anything ships.
 
-<br/>
+## How I build
+
+- The model is swappable. The harness around it (context, tools, guardrails, evals) is the product.
+- Fail closed. A model outage is "unknown", never a pass.
+- Every change gets a reviewer that didn't write it.
 
 ## Selected work
 
@@ -41,22 +33,12 @@
 | [**ClearCare**](https://github.com/anshuldani/clearcare) | Multimodal agent that decodes discharge papers and disputes medical bills. Google DeepMind Vibecoding Hackathon. |
 | [**Agent Graveyard**](https://github.com/anshuldani/agent-graveyard) | Prompt-injection attack simulator for agent systems. |
 
-<br/>
+## Stack
 
-## ⚡ Stack
+- **Languages:** Python, TypeScript, Swift, Kotlin, Rust
+- **AI:** PyTorch, Core ML, ONNX, Gemini, Claude, MCP, embeddings and vector search
+- **Platform:** Django, FastAPI, Next.js, PostgreSQL, Redis, Celery, GCP, Kubernetes, Docker
 
-<br/>
+---
 
-<div align="center">
-
-
-<br/><br/>
-
-<sub>MS in Artificial Intelligence · Illinois Institute of Technology · 2026</sub>
-
-<br/><br/>
-
-**Building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
-
-
-</div>
+MS in Artificial Intelligence, Illinois Institute of Technology, 2026
