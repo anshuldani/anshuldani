@@ -4,7 +4,7 @@
 
 <h1 style="font-weight:800">Anshul Dani</h1>
 
-**Founding AI/ML Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
+**Founding Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
 
 <code>Vision Systems in Production</code> &nbsp; <code>Agents that finish the job</code> &nbsp; <code>Sub-Second inference is the bar</code>
 
@@ -18,11 +18,15 @@
 
 <br/>
 
-## 🚀 Now
+## Now
 
-<!--START_NOW-->
-**Levee** · Founding AI/ML Engineer. Own the CV pipeline, VLM layer, agent stack, and GCP inference infra for the AI operating system for hotels. Shipped YOLO11 + SAM2 + fine-tuned SmolVLM on 2.5k annotated rooms, sub-2s inference. Currently building the multi-tenant Context Engine and next-gen inspection pipeline for a luxury hotel group pilot.
-<!--END_NOW-->
+**Founding Engineer at [Levee](https://levee.biz)**, building the AI behind room inspections for hotels: a phone scan that checks every item in a room against the property's own standards.
+
+- **Inspection pipeline.** On-device image embeddings close the easy items instantly on iOS and Android. A vision-language model verifies only the hard frames in the cloud, and confidence-based routing decides which path each item takes.
+- **Agents after the scan.** An event-driven agent pipeline turns each scan into findings, a score and follow-up tasks for managers.
+- **Standards as knowledge.** Hotel SOP documents become structured, searchable standards and training content.
+- **Mobile.** Shipped the native Android app solo, from zero to Google Play, at parity with iOS.
+- **How the work gets built.** I run engineering through a multi-agent harness: a planner, engineers in isolated worktrees, a fresh-context QA gate, evals, and a human approval gate before anything ships.
 
 <br/>
 
