@@ -30,52 +30,16 @@
 
 <br/>
 
-## 🏆 Wins
+## Selected work
 
-| | |
+| Project | What it is |
 |:--|:--|
-| **Google Hack for Accessibility 2025** | 🥇 Winner — [TAVI](https://github.com/anshuldani/TAVI-Talk-and-Vision-), wearable edge AI for the visually impaired |
-| **Techstars Chicago Startup Weekend** | 🥉 3rd — [Authflow](https://github.com/anshuldani/authflow-backend), prior-auth automation built in 54 hours |
-| **LandingAI Financial AI Hackathon** | Top 20, judged by Andrew Ng — [Arcis](https://github.com/anshuldani/finance_ai_hackathon), 6-agent SEC-filing intelligence |
-
-<br/>
-
-## 🛠 Selected builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[career-claw](https://github.com/anshuldani/career-claw)**<br/>
-Autonomous job pipeline: search → tailored resume → form submission.<br/>
-<sub>TypeScript · Agents · Browser automation</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[JARVIS](https://github.com/anshuldani/jarvis)**<br/>
-Desktop AI with wake word, voice, and tool use.<br/>
-<sub>Claude API · Whisper · ElevenLabs · PyQt</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[ClearCare](https://github.com/anshuldani/clearcare)**<br/>
-Multimodal agent that decodes discharge papers and disputes medical bills.<br/>
-<sub>Gemini 2.5 · Next.js · Google DeepMind Vibecoding Hackathon</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Agent Graveyard](https://github.com/anshuldani/agent-graveyard)**<br/>
-Prompt-injection attack simulator for agent systems.<br/>
-<sub>TypeScript · AI security</sub>
-
-</td>
-</tr>
-</table>
+| [**Salient-Quant**](https://github.com/anshuldani/Simplified-Quantization-for-Edge-Ready-Language-Models) | Salience-guided mixed-precision post-training quantization for edge LLMs, at 1.61 bits per weight without the collapse uniform sub-2-bit methods suffer. |
+| [**TAVI**](https://github.com/anshuldani/TAVI-Talk-and-Vision-) | Wearable multimodal assistant for visually impaired users. **Winner, Google Hack for Accessibility 2025.** |
+| [**Shareholder Catalyst**](https://github.com/anshuldani/finance_ai_hackathon) | Multi-agent analysis of SEC filings into an investment thesis. **Top 20, LandingAI Financial AI Hackathon**, judged by Andrew Ng. |
+| [**Authflow**](https://github.com/anshuldani/authflow-backend) | Prior-authorization automation built in 54 hours. **3rd, Techstars Chicago Startup Weekend.** |
+| [**ClearCare**](https://github.com/anshuldani/clearcare) | Multimodal agent that decodes discharge papers and disputes medical bills. Google DeepMind Vibecoding Hackathon. |
+| [**Agent Graveyard**](https://github.com/anshuldani/agent-graveyard) | Prompt-injection attack simulator for agent systems. |
 
 <br/>
 
