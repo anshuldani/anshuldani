@@ -89,11 +89,6 @@ Desktop AI with wake word, voice, and tool use.<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="165" />
-
-<br/><br/>
-
 <sub>MS in Artificial Intelligence · Illinois Institute of Technology · 2026</sub>
 
 <br/><br/>
