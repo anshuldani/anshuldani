@@ -77,20 +77,10 @@ Prompt-injection attack simulator for agent systems.<br/>
 
 ## ⚡ Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,fastapi,django,gcp,docker,supabase,postgres,rust&perline=12" />
-
-<sub>YOLO11 · SAM2 · SmolVLM · LangGraph · MCP · Pinecone · pgvector · 3D Gaussian Splatting · CUDA</sub>
-
-</div>
-
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="165" />
 
 <br/><br/>
 
