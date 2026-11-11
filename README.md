@@ -1,44 +1,104 @@
-# Anshul Dani
+<div align="center">
 
-Founding Engineer at [Levee](https://levee.biz) · New York
+<br/>
 
-I build AI systems that run in production: vision pipelines, agents, and the harnesses that make them reliable.
+<h1 style="font-weight:800">Anshul Dani</h1>
 
-[anshuldani.com](https://anshuldani.com) · [LinkedIn](https://linkedin.com/in/anshul-dani) · [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
+**Founding Engineer @ [Levee](https://levee.biz)** &nbsp;·&nbsp; New York City
 
-## Now
+<code>Vision Systems in Production</code> &nbsp; <code>Agents that finish the job</code> &nbsp; <code>Harnesses over prompts</code>
 
-At Levee I build the AI behind room inspections for hotels: a phone scan that checks every item in a room against the property's own standards.
+<br/>
 
-- **Inspection pipeline.** On-device image embeddings close the easy items instantly on iOS and Android. A vision-language model verifies only the hard frames in the cloud, and confidence-based routing decides which path each item takes.
-- **Agents after the scan.** An event-driven agent pipeline turns each scan into findings, a score and follow-up tasks for managers.
-- **Standards as knowledge.** Hotel SOP documents become structured, searchable standards and training content.
-- **Mobile.** Shipped the native Android app solo, from zero to Google Play, at parity with iOS.
-- **How the work gets built.** I run engineering through a multi-agent harness: a planner, engineers in isolated worktrees, a fresh-context QA gate, evals, and a human approval gate before anything ships.
+[![Portfolio](https://img.shields.io/badge/anshuldani.com-0d1117?style=flat-square&logo=safari&logoColor=white)](https://anshuldani.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anshul-dani)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:anshuldani@gmail.com)
 
-## How I build
+</div>
 
-- The model is swappable. The harness around it (context, tools, guardrails, evals) is the product.
-- Fail closed. A model outage is "unknown", never a pass.
-- Every change gets a reviewer that didn't write it.
+<br/>
 
-## Selected work
+## 🚀 Now
 
-| Project | What it is |
+<!--START_NOW-->
+**Levee** · Founding Engineer. I build the AI behind room inspections for hotels: on-device image embeddings close easy items instantly on iOS and Android, a vision-language model verifies the hard frames in the cloud, and an agent pipeline turns every scan into findings, a score and tasks. Shipped the native Android app solo. Run engineering through a multi-agent harness with a fresh-context QA gate, evals, and human approval before anything ships.
+<!--END_NOW-->
+
+<br/>
+
+## 🏆 Wins
+
+| | |
 |:--|:--|
-| [**Salient-Quant**](https://github.com/anshuldani/Simplified-Quantization-for-Edge-Ready-Language-Models) | Salience-guided mixed-precision post-training quantization for edge LLMs, at 1.61 bits per weight without the collapse uniform sub-2-bit methods suffer. |
-| [**TAVI**](https://github.com/anshuldani/TAVI-Talk-and-Vision-) | Wearable multimodal assistant for visually impaired users. **Winner, Google Hack for Accessibility 2025.** |
-| [**Shareholder Catalyst**](https://github.com/anshuldani/finance_ai_hackathon) | Multi-agent analysis of SEC filings into an investment thesis. **Top 20, LandingAI Financial AI Hackathon**, judged by Andrew Ng. |
-| [**Authflow**](https://github.com/anshuldani/authflow-backend) | Prior-authorization automation built in 54 hours. **3rd, Techstars Chicago Startup Weekend.** |
-| [**ClearCare**](https://github.com/anshuldani/clearcare) | Multimodal agent that decodes discharge papers and disputes medical bills. Google DeepMind Vibecoding Hackathon. |
-| [**Agent Graveyard**](https://github.com/anshuldani/agent-graveyard) | Prompt-injection attack simulator for agent systems. |
+| **Google Hack for Accessibility 2025** | 🥇 Winner — [TAVI](https://github.com/anshuldani/TAVI-Talk-and-Vision-), wearable edge AI for the visually impaired |
+| **Techstars Chicago Startup Weekend** | 🥉 3rd — [Authflow](https://github.com/anshuldani/authflow-backend), prior-auth automation built in 54 hours |
+| **LandingAI Financial AI Hackathon** | Top 20, judged by Andrew Ng — [Arcis](https://github.com/anshuldani/finance_ai_hackathon), 6-agent SEC-filing intelligence |
 
-## Stack
+<br/>
 
-- **Languages:** Python, TypeScript, Swift, Kotlin, Rust
-- **AI:** PyTorch, Core ML, ONNX, Gemini, Claude, MCP, embeddings and vector search
-- **Platform:** Django, FastAPI, Next.js, PostgreSQL, Redis, Celery, GCP, Kubernetes, Docker
+## 🛠 Selected builds
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-MS in Artificial Intelligence, Illinois Institute of Technology, 2026
+**[Salient-Quant](https://github.com/anshuldani/Simplified-Quantization-for-Edge-Ready-Language-Models)**<br/>
+Mixed-precision quantization for edge LLMs at 1.61 bits/weight, without sub-2-bit collapse.<br/>
+<sub>PyTorch · Post-training quantization · Research</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Agent Graveyard](https://github.com/anshuldani/agent-graveyard)**<br/>
+Prompt-injection attack simulator for agent systems.<br/>
+<sub>TypeScript · AI security</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ClearCare](https://github.com/anshuldani/clearcare)**<br/>
+Multimodal agent that decodes discharge papers and disputes medical bills.<br/>
+<sub>Gemini 2.5 · Next.js · Google DeepMind Vibecoding Hackathon</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[JARVIS](https://github.com/anshuldani/jarvis)**<br/>
+Desktop AI with wake word, voice, and tool use.<br/>
+<sub>Claude API · Whisper · ElevenLabs · PyQt</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ⚡ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,fastapi,django,gcp,docker,supabase,postgres,rust&perline=12" />
+
+<sub>Core ML · ONNX · Gemini · Claude · MCP · Agents · Embeddings · pgvector · Kubernetes</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anshuldani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuldani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" height="165" />
+
+<br/><br/>
+
+<sub>MS in Artificial Intelligence · Illinois Institute of Technology · 2026</sub>
+
+<br/><br/>
+
+**Building something interesting?** → [anshuldani@gmail.com](mailto:anshuldani@gmail.com)
+
+
+</div>
